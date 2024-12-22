@@ -5,3 +5,4 @@ skip this commit
 have this in local branch aswell
 skip example 1
 skip example 2
+skip example 3
